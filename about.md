@@ -1,0 +1,1 @@
+Drag **meshes into armature bones** in the outliner. A mesh dropped into a bone is auto-painted fully to it, so it follows that bone. Repaint any points in place to make it bend, without taking it out of its folder. Exports as normal skinned meshes. Right-click ▸ **Reset Weights to Folder Bone** to start over.
